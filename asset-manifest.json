@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FM-intro-component-with-signup-form/static/css/main.8c8d8fee.chunk.css",
+    "main.js": "/FM-intro-component-with-signup-form/static/js/main.e99c4f19.chunk.js",
+    "main.js.map": "/FM-intro-component-with-signup-form/static/js/main.e99c4f19.chunk.js.map",
+    "runtime-main.js": "/FM-intro-component-with-signup-form/static/js/runtime-main.d9c48381.js",
+    "runtime-main.js.map": "/FM-intro-component-with-signup-form/static/js/runtime-main.d9c48381.js.map",
+    "static/js/2.c5c69ae0.chunk.js": "/FM-intro-component-with-signup-form/static/js/2.c5c69ae0.chunk.js",
+    "static/js/2.c5c69ae0.chunk.js.map": "/FM-intro-component-with-signup-form/static/js/2.c5c69ae0.chunk.js.map",
+    "static/js/3.5e34a848.chunk.js": "/FM-intro-component-with-signup-form/static/js/3.5e34a848.chunk.js",
+    "static/js/3.5e34a848.chunk.js.map": "/FM-intro-component-with-signup-form/static/js/3.5e34a848.chunk.js.map",
+    "index.html": "/FM-intro-component-with-signup-form/index.html",
+    "static/css/main.8c8d8fee.chunk.css.map": "/FM-intro-component-with-signup-form/static/css/main.8c8d8fee.chunk.css.map",
+    "static/js/2.c5c69ae0.chunk.js.LICENSE.txt": "/FM-intro-component-with-signup-form/static/js/2.c5c69ae0.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/FM-intro-component-with-signup-form/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9c48381.js",
+    "static/js/2.c5c69ae0.chunk.js",
+    "static/css/main.8c8d8fee.chunk.css",
+    "static/js/main.e99c4f19.chunk.js"
+  ]
+}
