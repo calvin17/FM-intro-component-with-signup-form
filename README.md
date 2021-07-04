@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro Component With Signup Form solution
 
-This is a solution to the [Intro Component With Signup Form on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Intro Component With Signup Form on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ This is a solution to the [Intro Component With Signup Form on Frontend Mentor](
 
 ## Overview
 
-- [Live Demo](https://calvin17.github.io/FM-base-apparel-coming-soon/)
+- [Live Demo](https://calvin17.github.io/FM-intro-component-with-signup-form/)
 
 ### The challenge
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-base-apparel-coming-soon/)
+- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-intro-component-with-signup-form/)
 
 ## My process
 
@@ -40,6 +40,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - React
+- React Hook Form
 - CSS 3
 - Flexbox & Grid
 - SASS
