@@ -3,13 +3,13 @@ import SignupForm from "./SignupForm";
 function IntroPage() {
   return (
     <div className="continer">
-      <div className="intro-content">
+      <header className="intro-content" role="banner">
         <h1 className="title">Learn to code by watching others</h1>
         <p className="discription">
           See how experienced developers solve problems in real-time. Watching scripted tutorials is great,
           but understanding how developers think is invaluable.
         </p>
-      </div>
+      </header>
       <div className="price-info">
         <div className="trial-day">
           <span className="day-highlighter">Try it free 7 days</span> then
