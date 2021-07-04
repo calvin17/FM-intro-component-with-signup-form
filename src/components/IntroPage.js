@@ -10,7 +10,7 @@ function IntroPage() {
           but understanding how developers think is invaluable.
         </p>
       </header>
-      <div className="price-info">
+      <div className="price-info" role="contentinfo">
         <div className="trial-day">
           <span className="day-highlighter">Try it free 7 days</span> then
         </div>

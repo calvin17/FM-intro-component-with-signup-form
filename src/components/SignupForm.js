@@ -12,7 +12,7 @@ function SignupForm() {
     alert("successfully submitted form");
   }
   return (
-    <form action="#" className="signup-form" onSubmit={handleSubmit(handleValidation)}>
+    <form action="#" className="signup-form" onSubmit={handleSubmit(handleValidation)} role="main">
       <input
         type="text"
         placeholder="First Name"
